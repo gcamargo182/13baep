@@ -134,12 +134,6 @@ storage/app/public/herois/
 
 ---
 
-## 🌐 Acesso via Rede Interna (XAMPP)
-
-Para acesso via IP interno, configure o VirtualHost no XAMPP apontando para a pasta `public/` do projeto e ajuste o `.env` com o IP e porta correspondentes.
-
----
-
 ## 📄 Licença
 
 Este projeto é de uso interno da **Polícia Militar do Estado de São Paulo — 13º BAEP**.  
